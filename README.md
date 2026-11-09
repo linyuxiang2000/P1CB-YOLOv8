@@ -1,5 +1,5 @@
 # P1CB-YOLOv8s: A small object detection method for traffic scenes integrating high-resolution detection heads and adaptive weighted fusion
-
+The new version of this code, DCAS++, will be released.
 <div align=center>
 <img src="./ultralytics/assets/VisDrone_mAP_Params.png" alt="VisDrone_mAP_Params" width = "549" />
 </div>
